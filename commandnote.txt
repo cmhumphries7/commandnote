@@ -14,3 +14,14 @@ cd <FOLDERNAME> = navigate into an existing folder
 
 ls = list items in folder
 
+adding another line 
+
+git diff = shows you the difference, changes
+
+git status = check status of changes to a repository
+
+git add = add all files changes
+
+git commit -m "your commit message" = save changes and short message describing the changes
+
+cd ~ = change directory 
