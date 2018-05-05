@@ -26,4 +26,32 @@ git commit -m "your commit message" = save changes and short message describing 
 
 cd ~ = change directory 
 
-dd
+git remote add <REMOTENAME> <URL> = add remote connection
+
+git remote set-url <REMOTENAME> = set url to remote
+
+git pull <REMOTENAME> <BRANCHNAME> = pull in changes
+
+git remote -v = view remote address
+
+git push <REMOTENAME> <BRANCH> = push changes
+
+git remote add <REMOTENAME> <URL> = add remote
+
+git remote set-url <REMOTENAME> <URL> = change a remote URL
+
+git remote -v = view remote connections 
+
+git merge <BRANCHNAME> = merge a branch into current branch
+
+git checkout <BRANCHNAME> = change the branch you're working on
+
+git branch -d <BRANCHNAME> = delete a local branch
+
+git push <REMOTENAME> --delete <BRANCHNAME> = delete a remote branch
+
+git pull <REMOTENAME> <BRANCHNAME> = pull from a remote branch
+
+git-it (resource, dictionary)
+
+//press up in git to go back through your history
