@@ -1,0 +1,16 @@
+subl = sublime
+
+ls = lists items in the directory
+
+cd= change directory
+
+mkdir = make directory
+
+git init = tell GIT to start tracking
+
+mkdir <FOLDERNAME> = make a new folder
+
+cd <FOLDERNAME> = navigate into an existing folder
+
+ls = list items in folder
+
