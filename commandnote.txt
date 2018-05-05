@@ -25,3 +25,5 @@ git add = add all files changes
 git commit -m "your commit message" = save changes and short message describing the changes
 
 cd ~ = change directory 
+
+dd
